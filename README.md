@@ -1,6 +1,6 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am Thomas. I'm a 15 year old student :)
+### I am Thomas. I'm a 15 year old student :)
 
 ### I am still re-learning everything, including languages (C#, Rust, C)
 ### and, you can call me anything idm :)
