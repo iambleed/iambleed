@@ -1,8 +1,8 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### I am Thomas. I'm a 15 year old student :)
+## I am Thomas. I'm a 15 year old student :)
 
-### I am still re-learning everything, including languages (C#, Rust, C)
+### I am still re-learning everything, including languages
 ### and, you can call me anything idm :)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomanw8736&theme=tokyonight" alt="mystreak"/>
 ![TomAnw8736's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomanw8736&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 I’m currently learning C#, Rust, C
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
