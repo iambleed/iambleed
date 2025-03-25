@@ -1,6 +1,9 @@
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 My names Thomas, but you can call me Tom. I'm 15 (16 on May 6th). I have Autism, ADHD and Epilepsy. I live in Sydney, Australia. I am homeschooled and completely self-taught. My username on [Revolt](<https://revolt.chat>) is tomanw#0380. Feel Free to add me :D
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R41CG58S)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"><i>My Statistics 🚀</i></h2>
