@@ -1,6 +1,6 @@
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-My names Thomas, but you can call me Tom. I'm 15 (16 on May 6th). I have Autism, ADHD and Epilepsy. I live in Sydney, Australia. I am homeschooled and completely self-taught. My username on [Revolt](<https://revolt.chat>) is tomanw#0380. Feel Free to add me :D
+My names Thomas, but you can call me Tom. I'm 15 (16 on May 6th).</br> I have Autism, ADHD and Epilepsy. I live in Sydney, Australia.</br> I am homeschooled and completely self-taught.</br> My username on [Revolt](<https://revolt.chat>) is tomanw#0380. Feel Free to add me :D
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R41CG58S)
 
@@ -24,6 +24,7 @@ My names Thomas, but you can call me Tom. I'm 15 (16 on May 6th). I have Autism,
 ### 📚 Frameworks, Platforms, and Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23ffffff)
 
 ### 💻 Operating Systems
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
