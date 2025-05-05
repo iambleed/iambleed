@@ -1,6 +1,6 @@
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-My names Thomas, but you can call me Tom. I'm 15.</br> I have Autism, ADHD and Epilepsy. I live in Sydney, Australia.</br> I am homeschooled and completely self-taught.</br> My username on [Revolt](<https://revolt.chat>) is tomanw#0380. Feel Free to add me :D
+My names Thomas, but you can call me Tom. I'm 16.</br> I have Autism, ADHD and Epilepsy. I live in Sydney, Australia.</br> I am homeschooled and completely self-taught.</br> My username on [Revolt](<https://revolt.chat>) is tomanw#0380. Feel Free to add me :D
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
